@@ -1,9 +1,8 @@
-# Virtual-Piano - yчебный проект JetBrains Academy
-### Выполнила проект: Алёна
+# Virtual-Piano - JetBrains Academy project
 
-## Технологии:
+## Technologies:
 #### - HTML
 #### - CSS 
 #### - JavaScript
 
-## https://alena2020.github.io/Virtual-Piano/
+## Demo: https://alena2020.github.io/Virtual-Piano/
