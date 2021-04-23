@@ -1,4 +1,5 @@
-# Virtual-Piano - JetBrains Academy project
+# Virtual-Piano 
+My project from the JetBrains Academy Track: Frontend Developer. 
 
 ## Technologies:
 #### - HTML
